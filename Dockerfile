@@ -14,3 +14,4 @@ RUN npm install redux-thunk@2.4.1
 RUN npm install redux@4.1.2
 RUN npm install underscore@1.13.2
 RUN npm install axios@0.24.0
+RUN npm install web-vitals@2.1.3
