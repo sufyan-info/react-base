@@ -10,7 +10,7 @@ RUN npm install react-bootstrap@2.1.0
 RUN npm install bootstrap@5.1.3
 RUN npm install react-router-dom@6.2.1
 RUN npm install react-redux@7.2.6
-RUN npm install react-thunk@2.4.1
+RUN npm install redux-thunk@2.4.1
 RUN npm install redux@4.1.2
 RUN npm install underscore@1.13.2
 RUN npm install axios@0.24.0
